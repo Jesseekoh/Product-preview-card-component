@@ -33,8 +33,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Jesseekoh/Product-preview-card-component)
-- Live Site URL: [Add live site URL here](https://jesseekoh.github.io/Product-preview-card-component/)
+- Solution URL: [Solution URL here](https://github.com/Jesseekoh/Product-preview-card-component)
+- Live Site URL: [Live site URL here](https://jesseekoh.github.io/Product-preview-card-component/)
 
 ### Built with
 
